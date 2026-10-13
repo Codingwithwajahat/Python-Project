@@ -1,0 +1,20 @@
+id,name,email,age,error
+3,,ahmed3@example.com,19,Name cannot be empty
+4,Ahmed Malik,invalid-email,30,Email format incorrect
+5,Zara Sheikh,zara.sheikh5@example.com,-5,Age must be greater than 0
+12,Saad Butt,saad.butt12@example.com,,Age must be an integer
+17,,maryam17@example.com,31,Name cannot be empty
+21,Rayan Hussain,,25,Email format incorrect
+28,Maryam Javed,invalid-email,24,Email format incorrect
+33,Ahmed Sheikh,ahmed.sheikh33@example.com,-2,Age must be greater than 0
+42,,maham42@example.com,33,Name cannot be empty
+57,Rehan Naseem,rehan.naseem57@example.com,,Age must be an integer
+65,Usman Ali,invalid-email,41,Email format incorrect
+76,,noor76@example.com,31,Name cannot be empty
+88,Maryam Malik,maryam.malik88@example.com,-5,Age must be greater than 0
+93,Ahmed Ali,,35,Email format incorrect
+101,Saad Ahmed,invalid-email,23,Email format incorrect
+111,Rayan Farooq,rayan.farooq111@example.com,,Age must be an integer
+119,,adnan119@example.com,30,Name cannot be empty
+132,Maham Sheikh,maham.sheikh132@example.com,-1,Age must be greater than 0
+140,Laiba Farooq,invalid-email,27,Email format incorrect
